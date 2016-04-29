@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="splach_circle_colors">
+        <item>@color/blue</item>
+        <item>@color/green</item>
+        <item>@color/pink</item>
+        <item>@color/orange</item>
+        <item>@color/aqua</item>
+        <item>@color/yellow</item>
+    </array>
+</resources>
